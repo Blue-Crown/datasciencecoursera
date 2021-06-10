@@ -1,7 +1,0 @@
----
-title: TEST
-output: html_document
----
-# Hello World
-
-## trying this again to understand knitting
