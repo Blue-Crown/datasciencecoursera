@@ -1,8 +1,6 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
-  github_document: default
+title: TEST
+output: html_document
 ---
 # Hello World
 
