@@ -1,5 +1,5 @@
 ---
 title: "Let's try again"
-output: pdf_document
+output: html_document
 ---
 ## Third time is the charm...I hope
